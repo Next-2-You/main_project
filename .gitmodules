@@ -1,0 +1,8 @@
+[submodule "sub/sub-module-A"]
+	path = sub/sub-module-A
+	url = https://github.com/Next-2-You/sub-module-A.git
+	branch = init
+[submodule "sub/sub-module-B"]
+	path = sub/sub-module-B
+	url = https://github.com/Next-2-You/sub-module-B.git
+	branch = init
